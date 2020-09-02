@@ -1,0 +1,52 @@
+/*----------------------------------------*/
+/*  1.  Theme default CSS
+/*----------------------------------------*/
+html,
+body {
+	height: 100%;
+	font-family: "Roboto", sans-serif;
+	background-color: powderblue;
+}
+
+img {
+	max-width: 100%;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+	font-family: "Oswald", sans-serif;
+	padding: 0;
+	margin: 0;
+}
+
+h2 {
+	font-size: 36px;
+}
+
+p {
+	font-size: 15px;
+	color: #6c6e7e;
+	line-height: 30px;
+	font-family: "Roboto", sans-serif;
+}
+
+a:hover,
+a:focus {
+	text-decoration: none;
+	outline: none;
+	color: #0b1033;
+}
+
+li,
+ul {
+	margin: 0;
+	padding: 0;
+}
+
+.panel {
+	border: 0 ; 
+}
